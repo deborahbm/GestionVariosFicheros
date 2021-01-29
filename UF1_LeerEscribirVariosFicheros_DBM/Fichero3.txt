@@ -1,0 +1,4 @@
+
+********** Contenido Fichero1 **********
+
+Y contenido Fichero2
